@@ -1,4 +1,5 @@
 #Lesson 1: Standard Deviation vs Mean Absolute Deviation
+#https://www.youtube.com/watch?v=iKJy2YpYPe8
 ########################################################
 install.packages("ie2misc")
 library("ie2misc")

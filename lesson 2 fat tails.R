@@ -1,5 +1,6 @@
 #Lesson 2: Fat Tails
-####################
+#https://www.youtube.com/watch?v=t7Fr6iGhmBM
+############################################
 
 #The mean is one, only from one observation!
 extremistan <- c(replicate(999999, 0), 10^6)
